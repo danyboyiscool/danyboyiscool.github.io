@@ -344,6 +344,10 @@ a:hover, a:active, a:focus {
   padding-bottom: 100px;
 }
 
+#skill .section-title {
+  padding-bottom: 16px;
+}
+
 .skill-thumb strong,
 .skill-thumb span {
   color: #575757;
